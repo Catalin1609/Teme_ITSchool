@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="553a8913-11bb-4e2a-a621-6c3895041317" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recapitulare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Recapitulare/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercitiul6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiul6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +44,9 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/ITSCHOOL/Git/Teme_ITSchool/Recapitulare",
+    "last_opened_file_path": "E:/ITSCHOOL/Git/Teme_ITSchool",
     "onboarding.tips.debug.path": "D:/ITSCHOOL/Recapitulare/Recapitulare/src/Main.java"
   }
 }]]></component>

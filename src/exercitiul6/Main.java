@@ -34,6 +34,7 @@ public class Main {
             System.out.println(book);
         }
         System.out.println();
+        
     }
 
     private static void sortMaxPrice(List<Book> books) {
